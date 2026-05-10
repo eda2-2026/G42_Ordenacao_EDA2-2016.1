@@ -58,6 +58,18 @@ A ordenação é feita em ordem decrescente, ou seja, os maiores componentes apa
 
 ---
 
+## Exemplo de execução
+
+Exemplo utilizando a imagem `night_driving`, localizada na pasta `test`.
+
+<div align="center">
+
+| Imagem de entrada | Resultado do algoritmo |
+|---|---|
+| <img src="./test/night_driving.png" width="400px"> | <img src="./outputs/night_driving/03_resultado_ordenado.png" width="400px"> |
+
+</div>
+
 ## Apresentação
 
 <div align="center">
