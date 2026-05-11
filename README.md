@@ -75,7 +75,7 @@ Exemplo utilizando a imagem `night_driving`, localizada na pasta `test`.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=wCsl_FuJI24">
-    <img src=".test/yt.png" width="50%">
+    <img src="./test/yt.png" width="50%">
   </a>
 </div>
 
